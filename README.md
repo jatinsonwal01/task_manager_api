@@ -8,5 +8,5 @@
 > Features includes:- Authentication & Security , Gmail notification using sendgrid
 
 ## Preview
-<img src="https://github.com/jatinsonwal01/task_manager_api/blob/main/img/1.jpg" height="40%" width="70%">
-<img src="https://github.com/jatinsonwal01/task_manager_api/blob/main/img/2.jpg" height="40%" width="70%">
+<img src="https://github.com/jatinsonwal01/task_manager_api/blob/main/img/1.jpg" height="70%" width="100%">
+<img src="https://github.com/jatinsonwal01/task_manager_api/blob/main/img/2.jpg" height="70%" width="100%">
